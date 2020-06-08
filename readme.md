@@ -1,5 +1,5 @@
 <p align="center">
-<img src="public/assets/logo.png" width="400"></p>
+<img src="assets/logo.png" width="400"></p>
 
 ## Tentang Kelompok 4
 
