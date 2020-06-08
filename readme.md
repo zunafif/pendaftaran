@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://smk-dharmabahari.sch.id/wp-content/uploads/2020/02/DBS-300x275.png" width="400"></p>
+<img src="public/assets/logo.png" width="400"></p>
 
-## Tentang Kelompok 5
+## Tentang Kelompok 4
 
-Kelompok 5 melakukan kegiatan KKN di SMK Dharma Bahari Surabaya.
+Kelompok 4 melakukan kegiatan KKN di SMA Kalam Kudus Surabaya.
 
 ## Editor
 
-Fadhilatur Rochman - 06.2017.1.06799
+Muhamad Zun Afif Amruloh - 06.2017.1.06806
